@@ -1,0 +1,106 @@
+header{
+		 	background-color: lightgreen;
+ display: flex;
+ width:100%;
+ }
+  h1{
+        align-self: center;
+        font-size:65px;
+        font-weight:1000;
+        color:black;
+        margin-left:5cm;     
+        animation:h1;
+        animation-duration:5s;
+        animation-iteration-count:5;
+        animation-delay:2s;
+  
+
+    }
+ nav{
+background-color:black;
+ font-size: 20px;
+}
+a{
+	padding: 13px;
+	color: white;
+}
+ aside {
+ width: 400px;
+ height: 480px;
+ padding-left: 15px;
+ margin-top:10px;
+ margin-left: 15px;
+ font-size:20px;
+ float: right;
+ font-family: cambria;
+ background-color:skyblue;
+}
+article{
+ background-color: skyblue;
+ width:72%;
+ height: 490px;
+ }
+
+footer {
+ color: white;
+text-align: center;
+padding: 25px;
+background-color: black;
+color: white;
+}
+#birthdayCard{
+	background-color: darkorange;
+	color: #111111;
+	width: 45%;
+	height: 400px;
+	min-width: 300px;
+	border: 8px solid orange;
+	border-left: 10px solid #DD0000;
+	margin: 10px;
+	padding: 20px;
+}
+.redText{
+	color: #CC0000;
+}
+.signature{
+	text-align: right;
+}
+strong{
+	font-size: large;
+	color: #CC0000;
+}
+.title{
+    color: orange;
+    font-size: 25px;
+}
+#h1{
+color: black;
+    font-size: 45px;    
+}
+.form{
+    width: 600px;
+    background: transparent;
+    border:none;
+    text-align: center;
+    outline: none;
+    border-bottom: 1px solid black;
+    color: #fff;
+    font-size: 15px;
+}
+#btn{
+    color: #fff;
+    background: #ff5722;
+    border-color: transparent;
+    font-size: 20px;
+    font-weight: bold;
+    height: 37px;
+    width: 68px;
+}
+#body{
+    text-align: center;
+    background-color: lightgreen;
+    text-decoration-color: black;
+}
+#p{
+    font-size: 30px;
+}
